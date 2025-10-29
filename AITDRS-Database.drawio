@@ -19,7 +19,7 @@
         <mxCell id="tPfYVQATpPRIQdMHrRGW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kAjX3kNmUyB3gXyYBEr3-3" target="yj0HGoABKljQMS_cgf4L-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAjX3kNmUyB3gXyYBEr3-3" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ຜຸ້ໃຫ້ບໍລິການ&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Sans Lao ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DNoto%2BSans%2BLao%3Awght%40100..900%26display%3Dswap;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="kAjX3kNmUyB3gXyYBEr3-3" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ຜູ້ໃຫ້ບໍລິການ&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Sans Lao ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DNoto%2BSans%2BLao%3Awght%40100..900%26display%3Dswap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="80" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tPfYVQATpPRIQdMHrRGW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tPfYVQATpPRIQdMHrRGW-2" target="yj0HGoABKljQMS_cgf4L-2">
