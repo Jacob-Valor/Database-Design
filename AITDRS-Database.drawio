@@ -415,7 +415,7 @@
           <mxGeometry height="30" width="110" x="130" y="110" as="geometry" />
         </mxCell>
         <mxCell id="j0yVNwV0RdijPujgUsVq-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ຕັ່ງຄ່າ Rule ແລະ ນະໂຍບາຍ" vertex="1">
-          <mxGeometry height="30" width="110" x="250" y="270" as="geometry" />
+          <mxGeometry height="30" width="110" x="240" y="270" as="geometry" />
         </mxCell>
         <mxCell id="j0yVNwV0RdijPujgUsVq-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ຂໍ້ມູນທົດສອບ" vertex="1">
           <mxGeometry height="30" width="90" x="220" y="460" as="geometry" />
