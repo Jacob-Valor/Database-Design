@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.8" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.1.1" pages="2">
   <diagram id="cCYTb3VyOIaRYEK4TRq9" name="Context-Diagram">
     <mxGraphModel dx="972" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,10 +68,405 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ubhVTEdAaNEAWDc95_jT" name="DFD-Level 0">
-    <mxGraphModel dx="1166" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1723" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="j0yVNwV0RdijPujgUsVq-62" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-74" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-76" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="230" />
+              <mxPoint x="220" y="498" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ຜູ້ໃຫ້ບໍລິການ&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-71" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="570" />
+              <mxPoint x="220" y="570" />
+              <mxPoint x="220" y="685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-79" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="505" />
+              <mxPoint x="200" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haxOzZcTL-sKDDVKng9a-11" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;ລູກຄ້າ&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-72" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="775" />
+              <mxPoint x="290" y="703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Payment Gateway&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="haxOzZcTL-sKDDVKng9a-1" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ຈັດການຂໍ້ມູນຜູ້ໃຊ້" vertex="1">
+          <mxGeometry height="70" width="120" x="320" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-17" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-15" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="j0yVNwV0RdijPujgUsVq-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="260" as="sourcePoint" />
+            <mxPoint x="390" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=0.5;" value="1.0" vertex="1">
+          <mxGeometry height="30" width="60" x="350" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-22" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="150" x="560" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-10" connectable="0" parent="j0yVNwV0RdijPujgUsVq-22" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="130" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-6" edge="1" parent="j0yVNwV0RdijPujgUsVq-10" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-7" edge="1" parent="j0yVNwV0RdijPujgUsVq-10" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="50" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-8" edge="1" parent="j0yVNwV0RdijPujgUsVq-10" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="50" as="sourcePoint" />
+            <mxPoint x="130" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-9" edge="1" parent="j0yVNwV0RdijPujgUsVq-10" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="23.636363636363637" as="sourcePoint" />
+            <mxPoint x="23.636363636363637" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-60" parent="j0yVNwV0RdijPujgUsVq-10" style="text;whiteSpace=wrap;html=1;" value="ຂໍ້ມູນຜູ້ໃຊ້" vertex="1">
+          <mxGeometry height="40" width="80" x="40" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-21" parent="j0yVNwV0RdijPujgUsVq-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="D1" vertex="1">
+          <mxGeometry height="30" width="60" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-64" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ຕັ້ງຄ່າລະບົບ ແລະ Rule" vertex="1">
+          <mxGeometry height="70" width="120" x="320" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-24" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-23" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="j0yVNwV0RdijPujgUsVq-23" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="430" as="sourcePoint" />
+            <mxPoint x="390" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=0.5;" value="2.0" vertex="1">
+          <mxGeometry height="30" width="60" x="350" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-63" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="570" />
+              <mxPoint x="270" y="570" />
+              <mxPoint x="270" y="835" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-66" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ກວດຈັບໄພຄຸກຄາມດ້ວຍ AI" vertex="1">
+          <mxGeometry height="70" width="120" x="320" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-27" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-26" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="j0yVNwV0RdijPujgUsVq-26" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="610" as="sourcePoint" />
+            <mxPoint x="390" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=0.5;" value="3.0" vertex="1">
+          <mxGeometry height="30" width="60" x="350" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-67" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-84" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="650" />
+              <mxPoint x="530" y="445" />
+              <mxPoint x="540" y="445" />
+              <mxPoint x="540" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haxOzZcTL-sKDDVKng9a-4" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ຈັດການຊຳລະເງີນ" vertex="1">
+          <mxGeometry height="70" width="120" x="320" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-30" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-29" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="j0yVNwV0RdijPujgUsVq-29" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="780" as="sourcePoint" />
+            <mxPoint x="390" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=0.5;" value="4.0" vertex="1">
+          <mxGeometry height="30" width="60" x="350" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-70" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="890" />
+              <mxPoint y="890" />
+              <mxPoint y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haxOzZcTL-sKDDVKng9a-8" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="920" />
+              <mxPoint x="-30" y="920" />
+              <mxPoint x="-30" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ສ້າງລາຍງານ ແລະ ແຈ້ງເຕືອນ" vertex="1">
+          <mxGeometry height="70" width="120" x="320" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-33" edge="1" parent="1" source="j0yVNwV0RdijPujgUsVq-32" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="j0yVNwV0RdijPujgUsVq-32" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="930" as="sourcePoint" />
+            <mxPoint x="390" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=0.5;" value="5.0" vertex="1">
+          <mxGeometry height="30" width="60" x="350" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-35" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="150" x="560" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-36" connectable="0" parent="j0yVNwV0RdijPujgUsVq-35" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="130" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-37" edge="1" parent="j0yVNwV0RdijPujgUsVq-36" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-38" edge="1" parent="j0yVNwV0RdijPujgUsVq-36" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="50" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-39" edge="1" parent="j0yVNwV0RdijPujgUsVq-36" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="50" as="sourcePoint" />
+            <mxPoint x="130" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-40" edge="1" parent="j0yVNwV0RdijPujgUsVq-36" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="23.636363636363637" as="sourcePoint" />
+            <mxPoint x="23.636363636363637" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-41" parent="j0yVNwV0RdijPujgUsVq-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ຂໍ້ມູນຕັ້ງຄ່າລະບົບ ແລະ Rule" vertex="1">
+          <mxGeometry height="30" width="70.45" x="30" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-42" parent="j0yVNwV0RdijPujgUsVq-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="D2" vertex="1">
+          <mxGeometry height="30" width="60" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-43" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="150" x="560" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-44" connectable="0" parent="j0yVNwV0RdijPujgUsVq-43" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="130" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-45" edge="1" parent="j0yVNwV0RdijPujgUsVq-44" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-46" edge="1" parent="j0yVNwV0RdijPujgUsVq-44" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="50" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-47" edge="1" parent="j0yVNwV0RdijPujgUsVq-44" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="50" as="sourcePoint" />
+            <mxPoint x="130" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-48" edge="1" parent="j0yVNwV0RdijPujgUsVq-44" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="23.636363636363637" as="sourcePoint" />
+            <mxPoint x="23.636363636363637" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-49" parent="j0yVNwV0RdijPujgUsVq-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ບັນທຶກເຫດການ" vertex="1">
+          <mxGeometry height="30" width="70.45" x="30" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-50" parent="j0yVNwV0RdijPujgUsVq-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="D3" vertex="1">
+          <mxGeometry height="30" width="60" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-51" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="150" x="570" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-52" connectable="0" parent="j0yVNwV0RdijPujgUsVq-51" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="130" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-53" edge="1" parent="j0yVNwV0RdijPujgUsVq-52" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-54" edge="1" parent="j0yVNwV0RdijPujgUsVq-52" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="50" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-55" edge="1" parent="j0yVNwV0RdijPujgUsVq-52" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="50" as="sourcePoint" />
+            <mxPoint x="130" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-56" edge="1" parent="j0yVNwV0RdijPujgUsVq-52" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="23.636363636363637" as="sourcePoint" />
+            <mxPoint x="23.636363636363637" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-57" parent="j0yVNwV0RdijPujgUsVq-52" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ຂໍ້ມູນຊຳລະ" vertex="1">
+          <mxGeometry height="30" width="70.45" x="30" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-58" parent="j0yVNwV0RdijPujgUsVq-51" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="D4" vertex="1">
+          <mxGeometry height="30" width="60" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-65" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-26" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="515" />
+            </Array>
+            <mxPoint x="610" y="450" as="sourcePoint" />
+            <mxPoint x="430" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-68" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-32" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="853" />
+            </Array>
+            <mxPoint x="630" y="810" as="sourcePoint" />
+            <mxPoint x="430" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ລົງທະບຽນຂໍ້ມູນ" vertex="1">
+          <mxGeometry height="30" width="110" x="130" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ຕັ່ງຄ່າ Rule ແລະ ນະໂຍບາຍ" vertex="1">
+          <mxGeometry height="30" width="110" x="250" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ຂໍ້ມູນທົດສອບ" vertex="1">
+          <mxGeometry height="30" width="90" x="220" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ລົງທະບຽນເຂົ້າສູ່ລະບົບ" vertex="1">
+          <mxGeometry height="30" width="120" x="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ດຶງຂໍ້ມູນການຈ່າຍ" vertex="1">
+          <mxGeometry height="30" width="60" x="480" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-82" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="j0yVNwV0RdijPujgUsVq-32" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="740" />
+              <mxPoint x="410" y="740" />
+            </Array>
+            <mxPoint x="660" y="630" as="sourcePoint" />
+            <mxPoint x="430" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ດຶງຂໍ້ມູນ log" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ອັບເດດສະຖານະ" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ບັນທຶກການຕັ້ງຄ່າ ແລະ Rule" vertex="1">
+          <mxGeometry height="30" width="90" x="410" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ບັນທຶກ log ແລະ ເຫດການ" vertex="1">
+          <mxGeometry height="30" width="140" x="440" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ບັນທຶກ transaction" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ອ່ານ Rules" vertex="1">
+          <mxGeometry height="30" width="60" x="460" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="j0yVNwV0RdijPujgUsVq-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ແຈ້ງເຕືອນ, ໃບບີນ, ລາຍງານການລະເມີດ" vertex="1">
+          <mxGeometry height="30" width="150" x="10" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="haxOzZcTL-sKDDVKng9a-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ບັັນທຶກອັບເດດຂໍ້ມູນຜູ້ໃຊ້" vertex="1">
+          <mxGeometry height="30" width="150" x="470" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="haxOzZcTL-sKDDVKng9a-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ຄຳຮ້ອງຂໍຊຳລະເງີນ" vertex="1">
+          <mxGeometry height="30" width="100" x="170" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="haxOzZcTL-sKDDVKng9a-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ຜົນການຊຳລະເງິນ" vertex="1">
+          <mxGeometry height="30" width="90" x="170" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="haxOzZcTL-sKDDVKng9a-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ການແຈ້ງເຕືອນທັນທີ" vertex="1">
+          <mxGeometry height="30" width="102.5" x="217.5" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="haxOzZcTL-sKDDVKng9a-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ລາຍງານຜົນວິເຄາະ ລາຍງານລູກຄ້າ, ແຈ້ງເຕືອນ" vertex="1">
+          <mxGeometry height="30" width="120" x="-30" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="haxOzZcTL-sKDDVKng9a-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ຄ່າສັ່ງຊື້/ການຈ່າຍເງີນ" vertex="1">
+          <mxGeometry height="30" width="90" x="150" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="haxOzZcTL-sKDDVKng9a-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ການໃຊ້ບໍລິການ" vertex="1">
+          <mxGeometry height="30" width="110" x="200" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="haxOzZcTL-sKDDVKng9a-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=50;" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Data Flow Level 0&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="670" y="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
