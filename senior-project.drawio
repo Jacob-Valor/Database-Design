@@ -314,7 +314,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S2CsV0XxKII-4tIr0ybF" name=" ENSEMBLE MODEL  ">
-    <mxGraphModel dx="1663" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1087" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,7 +327,7 @@
         <mxCell id="LUM3eKqvWMCLnRDnohAq-8" edge="1" parent="1" source="LUM3eKqvWMCLnRDnohAq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LUM3eKqvWMCLnRDnohAq-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LUM3eKqvWMCLnRDnohAq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Ensemble&amp;nbsp; Model&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="LUM3eKqvWMCLnRDnohAq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Safe Ensemble&amp;nbsp; Model&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="520" x="165" y="80" as="geometry" />
         </mxCell>
         <mxCell id="LUM3eKqvWMCLnRDnohAq-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Layer 1:&lt;/div&gt;&lt;div&gt;Rule-Based&lt;/div&gt;" vertex="1">
@@ -348,13 +348,13 @@
         <mxCell id="LUM3eKqvWMCLnRDnohAq-15" edge="1" parent="1" source="LUM3eKqvWMCLnRDnohAq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LUM3eKqvWMCLnRDnohAq-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LUM3eKqvWMCLnRDnohAq-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;- DistilBERT&lt;/div&gt;&lt;div&gt;(Semantic)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;OR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- TF-IDF + XGBoost&lt;/div&gt;&lt;div&gt;(Lightweight)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;weight =&amp;gt;0.5&amp;nbsp;&lt;/div&gt;" vertex="1">
+        <mxCell id="LUM3eKqvWMCLnRDnohAq-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;- DistilBERT&lt;/div&gt;&lt;div&gt;(Semantic)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;OR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- TF-IDF + XGBoost&lt;/div&gt;&lt;div&gt;(Lightweight)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;weight =&amp;gt;0.45&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="160" x="345" y="280" as="geometry" />
         </mxCell>
         <mxCell id="LUM3eKqvWMCLnRDnohAq-18" edge="1" parent="1" source="LUM3eKqvWMCLnRDnohAq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LUM3eKqvWMCLnRDnohAq-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LUM3eKqvWMCLnRDnohAq-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;- Isolation Forest&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;OR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Autoencoder&lt;/div&gt;&lt;div&gt;(reconstruction error)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;weight =&amp;gt; 0.2&lt;/div&gt;" vertex="1">
+        <mxCell id="LUM3eKqvWMCLnRDnohAq-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;- Isolation Forest&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;OR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Autoencoder&lt;/div&gt;&lt;div&gt;(reconstruction error)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;weight =&amp;gt; 0.25&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="160" x="630" y="280" as="geometry" />
         </mxCell>
         <mxCell id="LUM3eKqvWMCLnRDnohAq-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Ensemble&lt;/div&gt;&lt;div&gt;Combiner&lt;/div&gt;" vertex="1">
